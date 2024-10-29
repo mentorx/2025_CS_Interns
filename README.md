@@ -8,10 +8,13 @@
 ## <a href="https://mentorx.net">蔓藤教育：美国求职，美国实习，英澳实习求职专家</a>
 ## Latest Internship Opportunities
 
-_Last updated: 10-27_
+_Last updated: 10-29_
 
 | Job Title | Company | Location | Required Skills | Posted |
 |-----------|---------|----------|-----------------|--------|
+| [Software Engineering Co-op (Spring/Summer 2025) (Hybrid)](https://www.indeed.com/viewjob?jk=111dcfb8ad2dd709&tk=1ib8cnac8iufo8aa&from=serp&vjs=3) | Collins Aerospace | Windsor Locks, CT | C programming, Python programming, Linux (Debian/Ubuntu), Software development, Documentation, Bash scripting, GitLab CI/CD, Communication protocols, Scrum, Problem-solving | 10-28 | <!-- JobID: jM8TAffYgf -->
+| [Software Engineer - Intern, Enterprise Account Origination (Summer 2025)](https://www.indeed.com/viewjob?jk=2d5aef00f8fcff3b&tk=1ib8hfgpok3cm811&from=serp&vjs=3) | Jack Henry & Associates | Hybrid work in Allen, TX 75013 | C#, Golang, Google Spanner, .NET Core, API development, Microservice Architecture, SQL Server, Google Cloud Platform (GCP), SAFe Agile methodologies, Software Development Life Cycle (SDLC) | 10-28 | <!-- JobID: gTThuckQJ6 -->
+| [Software Engineering Co-op (Spring/Summer 2025) (Onsite)](https://www.indeed.com/viewjob?jk=57e2e088e3829e77&tk=1ib8mghdjk3d383k&from=serp&vjs=3) | Collins Aerospace | Cedar Rapids, IA | C/C++, embedded operating systems, teamwork, initiative, adaptability, collaboration, problem-solving | 10-27 | <!-- JobID: fBYByE8Y6o -->
 | [Flight Software Engineer Intern - Summer 2025](https://www.indeed.com/viewjob?jk=8b62b94dde196f55&tk=1ib36nhshi9cg88s&from=serp&vjs=3) | York Space Systems | Greenwood Village, CO 80111 | C/C++, Rust, Linux, FreeRTOS, communication, teamwork, self-motivation, problem-solving | 10-25 | <!-- JobID: hKNH8l3P72 -->
 | [Flight Software Engineer Co-Op - Spring 2025](https://www.indeed.com/viewjob?jk=48600b19af574690&tk=1ib36oqiai8po850&from=serp&vjs=3) | York Space Systems | Greenwood Village, CO 80111 | C/C++, Rust, Linux, FreeRTOS, communication, teamwork, self-motivation, problem-solving | 10-25 | <!-- JobID: FwrfPpONLP -->
 | [DevOps Engineer Internship - Summer 2025](https://www.indeed.com/viewjob?jk=172f470727b40f8b&tk=1ib36cni8iufl87c&from=serp&vjs=3) | Uline | Pleasant Prairie, WI 53158 | Java, Python, Go, Machine Learning, AI Ops, Communication, Collaboration, Attention to Detail | 10-25 | <!-- JobID: TC91E7h7vN -->
