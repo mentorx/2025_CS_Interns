@@ -8,10 +8,13 @@
 ## <a href="https://mentorx.net">蔓藤教育：美国求职，美国实习，英澳实习求职专家</a>
 ## Latest Internship Opportunities
 
-_Last updated: 11-01_
+_Last updated: 11-03_
 
 | Job Title | Company | Location | Required Skills | Posted |
 |-----------|---------|----------|-----------------|--------|
+| [Walt Disney Animation Studios Hair Tools Intern, Summer 2025](https://www.indeed.com/viewjob?jk=c25e09c781ed40fe&tk=1ibl77i7okuok88t&from=serp&vjs=3) | Walt Disney Animation Studios | Burbank, CA | C++, communication skills, problem-solving skills, computer graphics, interactive graphics toolsets, user experience, physics, mathematics, simulation techniques, scripting languages (Python) | 11-01 | <!-- JobID: mxXv2XWT2U -->
+| [Walt Disney Animation Studios Hair Tools Intern, Summer 2025](https://www.indeed.com/viewjob?jk=bc06cf2088fe2428&tk=1ibl77i7okuok88t&from=serp&vjs=3) | Disney | Burbank, CA | C++, communication skills, problem-solving skills, computer graphics, interactive graphics toolsets, user experience, physics, mathematics, simulation techniques, scripting languages (Python) | 11-01 | <!-- JobID: 0yX37PhkLv -->
+| [Summer 2025 Intern - IT S&R Enablement](https://www.indeed.com/viewjob?jk=66623918768e8d0c&tk=1ibl77jmv2rt00a9&from=serp&vjs=3) | Federal Reserve Bank of Dallas | Hybrid work in Dallas, TX 75201 | software design, requirement analysis, application coding, code reviews, unit testing, Agile methodology, API development, cloud services, automation, low code application development | 11-01 | <!-- JobID: DODnFCo5Xi -->
 | [Automation/Workflow Efficiency Coop (Winter/Spring 2025)](https://www.indeed.com/viewjob?jk=36c8abe869508b2a&tk=1ibl7l9d6mv93861&from=serp&vjs=3) | Skyworks | Cedar Rapids, IA | software programming, communication skills, Microsoft Office tools, VScode, Python, Linux, circuit design, data analysis, system Verilog, SKILL coding | 11-01 | <!-- JobID: jTJFGDtQqL -->
 | [(Spring) Software Automation Engineer Co-op: January to June 2025](https://www.indeed.com/viewjob?jk=b7aa50e6f9ea894c&tk=1ibikl8joj72h8aa&from=serp&vjs=3) | SharkNinja | Needham, MA | Python, Java, NodeJS, SQA Lifecycle, Attention to detail, Communication | 10-31 | <!-- JobID: rROrYzYpjk -->
 | [Vertex Spring 2025 Co-Op, Biopharma CGT (Boston, MA)](https://www.indeed.com/viewjob?jk=cc99de1ce5ffc53b&tk=1ibil50fgi8qc8a8&from=serp&vjs=3) | Vertex Pharmaceuticals | Boston, MA | Python, HTML/CSS, JavaScript/TypeScript, SQL, AngularJs, Flask/FastAPI, Git, Docker, Unix, AWS, Data visualization, Machine learning algorithms, Communication skills, Organizational skills, Teamwork | 10-31 | <!-- JobID: UGrgc4RK03 -->
