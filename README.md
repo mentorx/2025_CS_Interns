@@ -8,10 +8,15 @@
 ## <a href="https://mentorx.net">蔓藤教育：美国求职，美国实习，英澳实习求职专家</a>
 ## Latest Internship Opportunities
 
-_Last updated: 11-17_
+_Last updated: 11-19_
 
 | Job Title | Company | Location | Required Skills | Posted |
 |-----------|---------|----------|-----------------|--------|
+| [2025 - Cyber Software Intern- Sacramento CA](https://www.indeed.com/viewjob?jk=66bf6183a7b7caf0&tk=1icuhff4viuft85n&from=serp&vjs=3) | Northrop Grumman | North Highlands, CA | Software Engineering, STEM (Science, Technology, Engineering or Math), Troubleshooting, Calibration, Testing, Data Reporting | 11-17 | <!-- JobID: rUlDLs8q5U -->
+| [Software Engineer Intern - Summer 2025](https://www.indeed.com/viewjob?jk=bf3bb9af3f9dd778&tk=1icugsv7ageda8i4&from=serp&vjs=3) | GRAMMATECH | Remote in United States | Programming skills in Python, Programming skills in C/C++, Linux tools, Static and dynamic analysis, Machine learning, Containerization (Docker, Podman) | 11-17 | <!-- JobID: vfJU38FmNk -->
+| [Summer Internship Program 2025 - Developer IME Regressions Testing Intern](https://www.indeed.com/viewjob?jk=d919bfa1bf12e097&tk=1icuhfnmggqrb85v&from=serp&vjs=3) | Intercontinental Exchange Holdings, Inc. | Atlanta, GA 30328 | C/C++, analytical skills, problem-solving skills, written communication skills, oral communication skills, MS Office | 11-17 | <!-- JobID: st77gaEgyu -->
+| [Summer 2025 Intern – DevOps Engineer](https://www.indeed.com/viewjob?jk=351fdb8d13867baa&tk=1icugtgdagcvf8b1&from=serp&vjs=3) | Empower | Hybrid work in Hartford, CT | AWS, CI/CD pipeline, Linux/Unix shell commands, Infrastructure as code, Automation, Microsoft Office (Excel, Word, PowerPoint), Strong verbal and written communication skills, Critical thinking skills, Team collaboration, Customer service mindset | 11-17 | <!-- JobID: 6VgfaSMG2j -->
+| [Software Engineering Undergraduate Internship - Summer 2025](https://www.indeed.com/viewjob?jk=aa1ab3c0ae5fae7c&tk=1icuh89mri9e186m&from=serp&vjs=3) | CVS Health | Hybrid work in New York, NY 10013 | Java, Python, JavaScript, Cloud development, UI Frameworks (NodeJS, Angular, React), CI/CD pipeline, Git, Artifactory, Jenkins, Excellent communication skills, Teamwork, Adaptability | 11-17 | <!-- JobID: f998NtG9MN -->
 | [Software Development Intern - Summer 2025](https://www.indeed.com/viewjob?jk=cd46896e426fcec7&tk=1icugtvo7k3ci85l&from=serp&vjs=3) | Indiana Farm Bureau Insurance | Indianapolis, IN 46202 (Downtown area) | Java, Spring Boot, Angular, Communication, Adaptability, Initiative | 11-17 | <!-- JobID: WR4Mwqx0zH -->
 | [Software Engineering Graduate Internship - Summer 2025](https://www.indeed.com/viewjob?jk=28fb06313ac1a2b5&tk=1icugtvo7k3ci85l&from=serp&vjs=3) | CVS Health | Hybrid work in New York, NY 10013 | Java, Python, JavaScript, NodeJS, Angular, React, Cloud development (GCP preferred), CI/CD pipeline, Git, Artifactory, Jenkins, Excellent communication skills, Teamwork, Adaptability | 11-17 | <!-- JobID: 8C7S3clDB9 -->
 | [Mobile Software Engineer Intern (Intelligent Creation - Camera Effect) - 2025 Summer (BS/MS)](https://www.indeed.com/viewjob?jk=47d24aa560477b4e&tk=1icuhbal0geda8bi&from=serp&vjs=3) | TikTok | San Jose, CA | Mobile Development, AI, CG, ML, AR, Problem-solving | 11-17 | <!-- JobID: 3TDSxsQWLb -->
