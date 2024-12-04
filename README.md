@@ -8,10 +8,14 @@
 ## <a href="https://mentorx.net">蔓藤教育：美国求职，美国实习，英澳实习求职专家</a>
 ## Latest Internship Opportunities
 
-_Last updated: 11-19_
+_Last updated: 12-03_
 
 | Job Title | Company | Location | Required Skills | Posted |
 |-----------|---------|----------|-----------------|--------|
+| [Site Reliability Engineer - 2025 Summer Intern](https://www.indeed.com/viewjob?jk=17ffddc497692631&tk=1ie7g7sfgi03s8ah&from=serp&vjs=3) | Sabre | Hybrid work in Dallas-Fort Worth, TX | Linux Operating System, Oracle, non-SQL database, Shell/Perl/Python scripting, Ansible, Terraform, GCP or any cloud platform, Network and computer operations, web-based architecture and development techniques, Java containers, Docker/Kubernetes, scalable cloud architecture, strong written and verbal communication skills, willingness to learn and adapt | 12-03 | <!-- JobID: dE9HNowky7 -->
+| [Engineer Intern - Software (Summer 2025)](https://www.indeed.com/viewjob?jk=1a65b9a80a2cb243&tk=1ie7g7sfgi03s8ah&from=serp&vjs=3) | Pierce Manufacturing | Oshkosh, WI 54902 | C++ programming, Embedded applications, Controller Area Network (CAN), J1939 protocol, Software documentation, Troubleshooting, Communication skills, Microsoft Office Suite, Detail-oriented, Adaptability | 12-03 | <!-- JobID: WX9ZP19BCK -->
+| [Computer Engineer/Software Engineer Internship (Summer 2025)](https://www.indeed.com/viewjob?jk=607da9488df8a986&tk=1ie7g7sfgi03s8ah&from=serp&vjs=3) | Parsons | Fredericksburg, VA | Programming (C/C++, Java, Python), Troubleshooting skills, Detail-oriented, Component level testing, System integration, Mechanical assembly or electronics, Flexibility, Comfortable working on different projects, Learning new things | 12-03 | <!-- JobID: tdI4agNps0 -->
+| [Software Engineer - 2025 Summer Intern](https://www.indeed.com/viewjob?jk=79b3f417214b3361&tk=1ie7g7sfgi03s8ah&from=serp&vjs=3) | Sabre | Hybrid work in Dallas-Fort Worth, TX | Java, GCP, Database/No SQL, REST API, Cloud technologies, Computer science basics | 12-03 | <!-- JobID: MBLd1hzLiA -->
 | [2025 - Cyber Software Intern- Sacramento CA](https://www.indeed.com/viewjob?jk=66bf6183a7b7caf0&tk=1icuhff4viuft85n&from=serp&vjs=3) | Northrop Grumman | North Highlands, CA | Software Engineering, STEM (Science, Technology, Engineering or Math), Troubleshooting, Calibration, Testing, Data Reporting | 11-17 | <!-- JobID: rUlDLs8q5U -->
 | [Software Engineer Intern - Summer 2025](https://www.indeed.com/viewjob?jk=bf3bb9af3f9dd778&tk=1icugsv7ageda8i4&from=serp&vjs=3) | GRAMMATECH | Remote in United States | Programming skills in Python, Programming skills in C/C++, Linux tools, Static and dynamic analysis, Machine learning, Containerization (Docker, Podman) | 11-17 | <!-- JobID: vfJU38FmNk -->
 | [Summer Internship Program 2025 - Developer IME Regressions Testing Intern](https://www.indeed.com/viewjob?jk=d919bfa1bf12e097&tk=1icuhfnmggqrb85v&from=serp&vjs=3) | Intercontinental Exchange Holdings, Inc. | Atlanta, GA 30328 | C/C++, analytical skills, problem-solving skills, written communication skills, oral communication skills, MS Office | 11-17 | <!-- JobID: st77gaEgyu -->
