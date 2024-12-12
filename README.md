@@ -8,10 +8,15 @@
 ## <a href="https://mentorx.net">蔓藤教育：美国求职，美国实习，英澳实习求职专家</a>
 ## Latest Internship Opportunities
 
-_Last updated: 12-09_
+_Last updated: 12-11_
 
 | Job Title | Company | Location | Required Skills | Posted |
 |-----------|---------|----------|-----------------|--------|
+| [Desktop Software Intern (Summer 2025)](https://www.indeed.com/viewjob?jk=ec6cac65b36ceac3&tk=1iervtte2i8pe8dv&from=serp&vjs=3) | Formlabs | Somerville, MA | C++, UI development, algorithm design, Qt, boost, OpenGL | 12-11 | <!-- JobID: adXMHhLZiQ -->
+| [Model Developer Co-Op - Spring 2025](https://www.indeed.com/viewjob?jk=491cdead7fa4b7e4&tk=1ies5qltegcug801&from=serp&vjs=3) | Motorola Solutions | Remote in California | Software Development, Troubleshooting, Debugging, C#, C++, Visual Studio, Cloud-based tools, RF / Radio communications, Agile Kanban, Problem-solving, Communication skills | 12-11 | <!-- JobID: FNeBnhjsuL -->
+| [Software Developer, Systems Solutions - Summer 2025 Internship](https://www.indeed.com/viewjob?jk=1a22141346792836&tk=1ierp5j9bj0qo8a4&from=serp&vjs=3) | Motorola Solutions | Chicago, IL 60661 | C#, C++, Java, Javascript, PHP, object-oriented design methodologies, API concepts, Web Automation test tools, CI/CD, Test automation, Visual Studios, Git, Azure DevOps, Docker, Kubernetes, excellent communication skills | 12-11 | <!-- JobID: 5GTX0aIaik -->
+| [Software Engineer Co-Op (Summer 2025 Start) – Construction & Engineering](https://www.indeed.com/viewjob?jk=39fc74e7e459656b&tk=1ierq4s3qj71o87b&from=serp&vjs=3) | Oracle | Pleasanton, CA 94588 | Java, Python, C#, SQL, JavaScript, CSS, HTML, Artificial Intelligence, Algorithms, Big Data, Data Structures, Database, Machine Learning, Object-Oriented Programming, Software Programming, Web/Mobile Development, Micro-Services Architecture, Container Architecture, User Interface Design | 12-11 | <!-- JobID: aH1kqs9wjc -->
+| [Software Engineering Intern (Summer 2025)](https://www.indeed.com/viewjob?jk=c45f00823819c1ae&tk=1iemi4a0m2dig0aa&from=serp&vjs=3) | CodeHS, Inc. | Chicago, IL 60654 | Python, Django, JavaScript, programming, communication, problem solving, creativity | 12-09 | <!-- JobID: 1EiNf4xn25 -->
 | [Software Engineer Intern - Summer 2025](https://www.indeed.com/viewjob?jk=976a3e8f2ad1dfa9&tk=1ien3pot2jcm3892&from=serp&vjs=3) | Motorola Solutions | Chicago, IL 60661 | Agile software development methodologies, microservice-based architecture, containerization, security concepts, cloud-based software development, communication skills, problem-solving skills, DevOps practices, .NET framework | 12-09 | <!-- JobID: 4JTvUbd86A -->
 | [Runtime Development Research Intern-Spring 2025- Silicon Valley, CA](https://www.indeed.com/viewjob?jk=b5ec8a5060b8bfe8&tk=1iemgtgtvgbm089h&from=serp&vjs=3) | Nissan | Santa Clara, CA 95051 | C/C++ programming, runtime systems, hardware accelerators, parallel processing, performance optimization, analytical skills, collaborative work, effective communication | 12-09 | <!-- JobID: CVovH8CXtj -->
 | [2025 Summer Intern, MS/PhD, Perception - Scene Semantics](https://www.indeed.com/viewjob?jk=aae53fb6ea8136f7&tk=1iehkca2vi8oj86b&from=serp&vjs=3) | Waymo | Mountain View, CA | Machine Learning, Deep Learning, Python, C/C++, Robotics, Vision-Language Models, Large-Language Models | 12-07 | <!-- JobID: fpl4t6HAqX -->
