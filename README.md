@@ -8,10 +8,12 @@
 ## <a href="https://mentorx.net">蔓藤教育：美国求职，美国实习，英澳实习求职专家</a>
 ## Latest Internship Opportunities
 
-_Last updated: 01-17_
+_Last updated: 01-19_
 
 | Job Title | Company | Location | Required Skills | Posted |
 |-----------|---------|----------|-----------------|--------|
+| [Software Engineering Intern - Summer 2025](https://www.indeed.com/viewjob?jk=1a09001513e47c8e&tk=1ihvutbaii8q58a3&from=serp&vjs=3) | Cox Enterprises | Austin, TX 78716 | Automation for infrastructure provisioning, Configuration management, Documentation of development procedures, Continuous integration and delivery, Code packaging and deployment, Feedback solicitation from teams, System and service performance tracking, High-level programming languages, Windows and Linux systems, Containers and databases, Public cloud architecture (preferably AWS), Agile concepts (Scrum and Kanban), Problem-solving, Verbal and written communication | 01-19 | <!-- JobID: 4c3LBsZ2B4 -->
+| [2025 PhD Software Engineer Intern (Programming Systems Group), United States](https://www.indeed.com/viewjob?jk=0a43eb729753647f&tk=1ii046bu0h70m8at&from=serp&vjs=3) | Uber | San Francisco, CA | program analysis techniques, compiler optimization, static analysis, dynamic analysis, Generative AI, coding skills, software design skills, communication skills | 01-19 | <!-- JobID: 1i6IX15jxn -->
 | [Amazon Robotics - Software Development Engineer Co-Op - Fall 2025](https://www.indeed.com/viewjob?jk=3e24d7678362406a&tk=1ihr3os2sgb2788e&from=serp&vjs=3) | Amazon.com Services LLC | Westborough, MA 01581 | object-oriented design, Java, Python, C++, C#, algorithms, data structures, complexity analysis, distributed systems, relational databases, optimization mathematics | 01-17 | <!-- JobID: pwjEtndQ3k -->
 | [Software Engineer Intern, Full-Stack - Summer 2025 - Hybrid OR full Remote (MI \| FL \| IL \| NC \| TX)](https://www.indeed.com/viewjob?jk=10b9a1dfe03081ca&tk=1ihqpa093j0po881&from=serp&vjs=3) | TechSmith Corporation | Remote | C++, C#, TypeScript, Java, JavaScript, Python, git, Agile, React, Cloud Services | 01-17 | <!-- JobID: 66kTNBd6Fk -->
 | [Summer 2025 Intern – Software Engineer; Platform Team](https://www.indeed.com/viewjob?jk=b7dd680809974e9f&tk=1ihqpa093j0po881&from=serp&vjs=3) | Empower | Hybrid work in Greenwood Village, CO | Java, Spring Boot, SQL, APIs, Microsoft Office (Excel, Word, PowerPoint), Verbal communication, Written communication, Critical thinking, Problem-solving, Team collaboration, Self-directed, Customer service mindset, Curiosity | 01-17 | <!-- JobID: WAUbwAbVlo -->
