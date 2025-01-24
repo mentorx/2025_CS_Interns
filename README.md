@@ -8,10 +8,16 @@
 ## <a href="https://mentorx.net">蔓藤教育：美国求职，美国实习，英澳实习求职专家</a>
 ## Latest Internship Opportunities
 
-_Last updated: 01-21_
+_Last updated: 01-23_
 
 | Job Title | Company | Location | Required Skills | Posted |
 |-----------|---------|----------|-----------------|--------|
+| [2025 Summer Intern - Software Applications and Pipelines](https://www.indeed.com/viewjob?jk=a8ef0806af5a52d5&tk=1ii52u8n0gmuf877&from=serp&vjs=3) | Roche | Santa Clara, CA 95050 | Python, Google Cloud Platform, Bash, Communication, Collaboration, Interpersonal skills | 01-21 | <!-- JobID: nZgWfbWJzR -->
+| [Computer Science and Engineering Co-Op - Fall 2025](https://www.indeed.com/viewjob?jk=201342975091db46&tk=1ii542e4ah71t86s&from=serp&vjs=3) | Crown Equipment Corporation | New Bremen, OH 45869 | Java, Angular, C/C++, C#, Python, Software Development, Scrum, Analytical Skills, Interpersonal Skills, Attention to Detail, Testing Procedures | 01-21 | <!-- JobID: OJQCG6tKwm -->
+| [2025 Summer Internship - Software Engineering Team](https://www.indeed.com/viewjob?jk=ba539a8a3726c784&tk=1ii5dhqb8k3fd84q&from=serp&vjs=3) | OpenSesame | Remote in Carson City, NV | Typescript, React, Terraform, AWS, collaboration, problem-solving, innovation | 01-21 | <!-- JobID: ZESANECJW6 -->
+| [Android Applications Developer Intern - Summer 2025](https://www.indeed.com/viewjob?jk=db9b7acb14a09df7&tk=1ii536ssbkgp883v&from=serp&vjs=3) | Motorola Solutions | Chicago, IL 60661 | Android application development, Kotlin, Android Framework components, RESTful APIs, Git, Object-oriented development, Agile software development | 01-21 | <!-- JobID: B07lcXG5fA -->
+| [2025 Spring Sophomore Summit: Software Engineer II Intern](https://www.indeed.com/viewjob?jk=a3e5df4a09e36ee3&tk=1ii536ssbkgp883v&from=serp&vjs=3) | Walmart | Bentonville, AR 72712 | Leadership, Communication, Integrity, Customer Service, Continuous Improvement, Collaboration, Coaching, Mentoring, Problem Solving, Analytical Thinking | 01-21 | <!-- JobID: TS7I6AfKBq -->
+| [Internship, Software Engineer, Data Platforms (Summer 2025)](https://www.indeed.com/viewjob?jk=a245c209b7cf9c03&tk=1ii58hossh72d86l&from=serp&vjs=3) | Tesla | Palo Alto, CA 94304 | Java, Python, Cloud infrastructure (AWS), DevOps/SRE, Data structures, Concurrency, Distributed systems (Kafka, Spark, HBase, ElasticSearch) | 01-21 | <!-- JobID: szceVzM4UH -->
 | [2025-2026 Yearlong Software Development Intern](https://www.indeed.com/viewjob?jk=1aaee5182582713e&tk=1ii5fqn6igeda87h&from=serp&vjs=3) | Chicago Transit Authority | Chicago, IL 60661 | C#, Python, SQL, Microsoft Office, verbal communication, written communication, analytical skills, critical thinking, organizational skills, project management | 01-21 | <!-- JobID: RCTamZo9hS -->
 | [Summer 2025 Software Engineering Intern- R&D \| Titleist](https://www.indeed.com/viewjob?jk=97794cd766095894&tk=1ii5ae36lh72a81o&from=serp&vjs=3) | Acushnet Company | United States | C/C++ based languages (C#, Java, Python), Web-based software development (CSS, HTML, JavaScript), System integration, Data acquisition software development | 01-21 | <!-- JobID: 121aj27Ma5 -->
 | [Engineering Co-op - Summer & Fall 2025](https://www.indeed.com/viewjob?jk=c9d27fb39a1f8d98&tk=1ii567vpcgbn7827&from=serp&vjs=3) | AtriCure | Minnetonka, MN 55305 | Software Development, Software Design, Quality Assurance, Prototyping, Testing, Documentation, Research, Engineering Principles | 01-21 | <!-- JobID: 81DOh6oMCU -->
