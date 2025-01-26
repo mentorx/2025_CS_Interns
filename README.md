@@ -8,10 +8,14 @@
 ## <a href="https://mentorx.net">蔓藤教育：美国求职，美国实习，英澳实习求职专家</a>
 ## Latest Internship Opportunities
 
-_Last updated: 01-23_
+_Last updated: 01-25_
 
 | Job Title | Company | Location | Required Skills | Posted |
 |-----------|---------|----------|-----------------|--------|
+| [Software Engineer Co-Op (January 2025 - May 2025)](https://www.indeed.com/viewjob?jk=24940e1d96b45fb1&tk=1iifg3496j72287b&from=serp&vjs=3) | LiveRamp | Remote in San Francisco, CA | coding skills, full-stack application development, big data back-end engineering, Golang, Java, Hadoop, Spark, distributed SQL database management, GCP, Agile software development, React, Ruby on Rails, Node.js, TypeScript, Express.js | 01-25 | <!-- JobID: v1m7xqvDbY -->
+| [2025 PhD Software Engineer Intern (Risk), United States](https://www.indeed.com/viewjob?jk=6703f95315998ac8&tk=1iifdleumgqql83s&from=serp&vjs=3) | Uber | Sunnyvale, CA | machine learning, data mining, artificial intelligence, constrained optimization, statistics, object-oriented programming (C++, Java, Python, Go), communication, project management | 01-25 | <!-- JobID: otZYDK0UlY -->
+| [2025 \| Americas \| Dallas Metro Area \| Engineering \| Summer Associate](https://www.indeed.com/viewjob?jk=07ba0555ca8cf30f&tk=1iifjqjr6294j001&from=serp&vjs=3) | Goldman Sachs | Dallas, TX 75201 | strategic thinking, software development, machine learning, cybersecurity, data analysis | 01-25 | <!-- JobID: oiGS53gSig -->
+| [Digital Engineering College Co-Op - Fall 2025](https://www.indeed.com/viewjob?jk=b9c671743d3e971f&tk=1iifhmfkqi96e86a&from=serp&vjs=3) | Fifth Third Bank | Cincinnati, OH | Java Spring Boot, Node.js, Angular, AWS, OpenShift, Project Management, Verbal Communication, Written Communication, Analytical Skills, Teamwork, Microsoft Office, Time Management, Initiative | 01-25 | <!-- JobID: coOrv2Cm8y -->
 | [2025 Summer Intern - Software Applications and Pipelines](https://www.indeed.com/viewjob?jk=a8ef0806af5a52d5&tk=1ii52u8n0gmuf877&from=serp&vjs=3) | Roche | Santa Clara, CA 95050 | Python, Google Cloud Platform, Bash, Communication, Collaboration, Interpersonal skills | 01-21 | <!-- JobID: nZgWfbWJzR -->
 | [Computer Science and Engineering Co-Op - Fall 2025](https://www.indeed.com/viewjob?jk=201342975091db46&tk=1ii542e4ah71t86s&from=serp&vjs=3) | Crown Equipment Corporation | New Bremen, OH 45869 | Java, Angular, C/C++, C#, Python, Software Development, Scrum, Analytical Skills, Interpersonal Skills, Attention to Detail, Testing Procedures | 01-21 | <!-- JobID: OJQCG6tKwm -->
 | [2025 Summer Internship - Software Engineering Team](https://www.indeed.com/viewjob?jk=ba539a8a3726c784&tk=1ii5dhqb8k3fd84q&from=serp&vjs=3) | OpenSesame | Remote in Carson City, NV | Typescript, React, Terraform, AWS, collaboration, problem-solving, innovation | 01-21 | <!-- JobID: ZESANECJW6 -->
