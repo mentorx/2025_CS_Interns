@@ -8,10 +8,14 @@
 ## <a href="https://mentorx.net">蔓藤教育：美国求职，美国实习，英澳实习求职专家</a>
 ## Latest Internship Opportunities
 
-_Last updated: 01-27_
+_Last updated: 01-29_
 
 | Job Title | Company | Location | Required Skills | Posted |
 |-----------|---------|----------|-----------------|--------|
+| [Software Engineering Intern - Summer 2025](https://www.indeed.com/viewjob?jk=236eb5b595ab11c6&tk=1iipq35snl6h889v&from=serp&vjs=3) | Juniper Networks | Sunnyvale, CA (West Murphy area) | Programming fundamentals, Python, C, C++, Golang, Operating systems, Computer networking concepts, Linux, Data science, AI/ML, Cloud software concepts, Software development tools, Analytical skills, Problem-solving skills, Communication skills, Leadership experience, Enthusiasm | 01-29 | <!-- JobID: Hx2sEuZU3P -->
+| [2025 Summer Intern - Software Engineer](https://www.indeed.com/viewjob?jk=731c196e1635f1fa&tk=1iiporfehgbnq86l&from=serp&vjs=3) | Pros. | Houston, TX | Java, JavaScript, Python, SQL, Object Oriented Programming, Analytical skills, Problem solving, Communication skills, Teamwork, Agile | 01-29 | <!-- JobID: BuuJQCJIGC -->
+| [Associate Software Engineer - Technology Development Program, Summer 2025 - Atlanta, GA](https://www.indeed.com/viewjob?jk=9fb6e0c23ea4c50a&tk=1iiprqg2sl01n85o&from=serp&vjs=3) | Cargill | Atlanta, GA | Software Development, Agile Methodologies, Collaboration, Problem-Solving, Communication, Technical Knowledge, Database Design, Systems Analysis, Programming | 01-29 | <!-- JobID: WkUVvGJLRJ -->
+| [Solaria Labs Software Development Co-op (July - December 2025)](https://www.indeed.com/viewjob?jk=553d4dcf2d433fd0&tk=1iiknj605nact85m&from=serp&vjs=3) | Liberty Mutual | Boston, MA | JavaScript (React, Node.js, TypeScript), Python, Java, Software development best practices, Agile software development, Strong oral and written communication skills, Collaboration skills, Adaptability skills | 01-27 | <!-- JobID: SJia8u5I8w -->
 | [Solaria Labs Software Development Co-op (July - December 2025)](https://www.indeed.com/viewjob?jk=553d4dcf2d433fd0&tk=1iikn30eogqpt833&from=serp&vjs=3) | Liberty Mutual | Boston, MA | JavaScript (React, Node.js, TypeScript), Python, Java, Agile software development, Strong oral and written communication skills, Collaboration skills, Adaptability skills, Software development best practices | 01-27 | <!-- JobID: Ub6CenHXeH -->
 | [Co-Op Software -Summer/Fall 2025](https://www.indeed.com/viewjob?jk=5aa9d241a6a0e625&tk=1iikokp03nad58f3&from=serp&vjs=3) | The Raymond Corporation | Greene, NY 13778 | C programming language, embedded software development, troubleshooting, data management, application development, code maintenance, researching new features | 01-27 | <!-- JobID: jalG0C0aTK -->
 | [Digital Transformation and Technology Fall 2025 Co-Op](https://www.indeed.com/viewjob?jk=aa56e6d75d42a163&tk=1iikpdvqgnad481q&from=serp&vjs=3) | Chick-fil-A, Inc. | Atlanta, GA 30349 | Programming languages (Java, JavaScript, Python, Go), Project management, Analytical skills, Problem-solving skills, Communication skills, Team collaboration, Creative problem solving | 01-27 | <!-- JobID: cCClizaZBb -->
