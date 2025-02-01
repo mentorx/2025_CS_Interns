@@ -8,10 +8,12 @@
 ## <a href="https://mentorx.net">蔓藤教育：美国求职，美国实习，英澳实习求职专家</a>
 ## Latest Internship Opportunities
 
-_Last updated: 01-29_
+_Last updated: 01-31_
 
 | Job Title | Company | Location | Required Skills | Posted |
 |-----------|---------|----------|-----------------|--------|
+| [Graduate Software Engineering Intern - 2025 Summer Internship](https://www.indeed.com/viewjob?jk=08a3f69a5898e1b2&tk=1iipq58cjljcp84m&from=serp&vjs=3) | Motorola Solutions | Los Angeles, CA 90017 | Machine Learning, Python, C/C++, Unix/Linux, Analytical Skills, Problem Solving, Communication Skills | 01-29 | <!-- JobID: thtwZJivt9 -->
+| [(General Hire) Backend Software Engineer Intern (TikTok Eng) - 2025 Summer (BS/MS)](https://www.indeed.com/viewjob?jk=b15c984de879b93a&tk=1iipq58cjljcp84m&from=serp&vjs=3) | TikTok | San Jose, CA | Python, Java, Golang, C#, C++, Software Development, Problem-solving, Creativity | 01-29 | <!-- JobID: Bzkyzxdr23 -->
 | [Software Engineering Intern - Summer 2025](https://www.indeed.com/viewjob?jk=236eb5b595ab11c6&tk=1iipq35snl6h889v&from=serp&vjs=3) | Juniper Networks | Sunnyvale, CA (West Murphy area) | Programming fundamentals, Python, C, C++, Golang, Operating systems, Computer networking concepts, Linux, Data science, AI/ML, Cloud software concepts, Software development tools, Analytical skills, Problem-solving skills, Communication skills, Leadership experience, Enthusiasm | 01-29 | <!-- JobID: Hx2sEuZU3P -->
 | [2025 Summer Intern - Software Engineer](https://www.indeed.com/viewjob?jk=731c196e1635f1fa&tk=1iiporfehgbnq86l&from=serp&vjs=3) | Pros. | Houston, TX | Java, JavaScript, Python, SQL, Object Oriented Programming, Analytical skills, Problem solving, Communication skills, Teamwork, Agile | 01-29 | <!-- JobID: BuuJQCJIGC -->
 | [Associate Software Engineer - Technology Development Program, Summer 2025 - Atlanta, GA](https://www.indeed.com/viewjob?jk=9fb6e0c23ea4c50a&tk=1iiprqg2sl01n85o&from=serp&vjs=3) | Cargill | Atlanta, GA | Software Development, Agile Methodologies, Collaboration, Problem-Solving, Communication, Technical Knowledge, Database Design, Systems Analysis, Programming | 01-29 | <!-- JobID: WkUVvGJLRJ -->
