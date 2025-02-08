@@ -8,10 +8,16 @@
 ## <a href="https://mentorx.net">蔓藤教育：美国求职，美国实习，英澳实习求职专家</a>
 ## Latest Internship Opportunities
 
-_Last updated: 01-31_
+_Last updated: 02-07_
 
 | Job Title | Company | Location | Required Skills | Posted |
 |-----------|---------|----------|-----------------|--------|
+| [Frontend Software Engineer Intern, Stablecoin (Summer 2025)](https://www.indeed.com/viewjob?jk=d15f16075186c0e5&tk=1ijh28e44kgpg87h&from=serp&vjs=3) | Ripple | New York, NY | Typescript, Javascript, Client-side application development, Coding best practices, Testing and deployment, Intellectual curiosity, Collaboration, Positive attitude | 02-07 | <!-- JobID: 7a3vbSHk7q -->
+| [Software Engineering Intern (Summer 2025)](https://www.indeed.com/viewjob?jk=069bc1ca0bf4d79a&tk=1ijh2rk41ggr985o&from=serp&vjs=3) | GLOBALFOUNDRIES | Essex Junction, VT 05452 | Programming Languages, Relational Database, Problem Solving, Communication Skills, Project Management, Data Structures, Operating Systems, Planning & Organizational Skills | 02-07 | <!-- JobID: 6QYV02zAcu -->
+| [Software Engineer Intern, Stablecoin (Summer 2025)](https://www.indeed.com/viewjob?jk=16b9416c989f9280&tk=1ijh2rk41ggr985o&from=serp&vjs=3) | Ripple | New York, NY | Programming languages (Java/Scala/Kotlin), Cloud deployment, Backend services development, Collaboration, Problem-solving, Coding best practices | 02-07 | <!-- JobID: mXEArzRS1z -->
+| [SUMMER + FALL 2025 CO-OP – SOFTWARE DEVELOPER / DATA ENGINEER](https://www.indeed.com/viewjob?jk=b60f739e5c320646&tk=1ijejhcai2bkj09j&from=serp&vjs=3) | Ellington Management Group | Old Greenwich, CT | Python, SQL, Selenium, C#, Data Analysis, API Services, Code Refactoring | 02-06 | <!-- JobID: Hy3mqaUDZI -->
+| [Computer Science Co-Op - 2025](https://www.indeed.com/viewjob?jk=fcbbf5207fa7ef76&tk=1ijelg5g3gfb3801&from=serp&vjs=3) | Parsons | Remote | Java software development, Javascript/React, software design and development, software development lifecycle, problem solving, writing and communication skills | 02-06 | <!-- JobID: Ra3zdA0H3M -->
+| [Fall 2025 Software Engineering Co-Op](https://www.indeed.com/viewjob?jk=d9ccafea72e16fe4&tk=1ijel3tg2kurv822&from=serp&vjs=3) | TREW LLC | West Chester, OH | Software Development, Database Development, Testing and Debugging, Communication Skills, Teamwork, Problem Solving | 02-06 | <!-- JobID: F3THhqY7rw -->
 | [Graduate Software Engineering Intern - 2025 Summer Internship](https://www.indeed.com/viewjob?jk=08a3f69a5898e1b2&tk=1iipq58cjljcp84m&from=serp&vjs=3) | Motorola Solutions | Los Angeles, CA 90017 | Machine Learning, Python, C/C++, Unix/Linux, Analytical Skills, Problem Solving, Communication Skills | 01-29 | <!-- JobID: thtwZJivt9 -->
 | [(General Hire) Backend Software Engineer Intern (TikTok Eng) - 2025 Summer (BS/MS)](https://www.indeed.com/viewjob?jk=b15c984de879b93a&tk=1iipq58cjljcp84m&from=serp&vjs=3) | TikTok | San Jose, CA | Python, Java, Golang, C#, C++, Software Development, Problem-solving, Creativity | 01-29 | <!-- JobID: Bzkyzxdr23 -->
 | [Software Engineering Intern - Summer 2025](https://www.indeed.com/viewjob?jk=236eb5b595ab11c6&tk=1iipq35snl6h889v&from=serp&vjs=3) | Juniper Networks | Sunnyvale, CA (West Murphy area) | Programming fundamentals, Python, C, C++, Golang, Operating systems, Computer networking concepts, Linux, Data science, AI/ML, Cloud software concepts, Software development tools, Analytical skills, Problem-solving skills, Communication skills, Leadership experience, Enthusiasm | 01-29 | <!-- JobID: Hx2sEuZU3P -->
