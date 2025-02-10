@@ -8,10 +8,13 @@
 ## <a href="https://mentorx.net">蔓藤教育：美国求职，美国实习，英澳实习求职专家</a>
 ## Latest Internship Opportunities
 
-_Last updated: 02-07_
+_Last updated: 02-09_
 
 | Job Title | Company | Location | Required Skills | Posted |
 |-----------|---------|----------|-----------------|--------|
+| [Software Development Intern- Summer 2025](https://www.indeed.com/viewjob?jk=c3b6deb15f028755&tk=1ijm0t8osgfai82k&from=serp&vjs=3) | ABB | Fort Smith, AR 72901 | Coding, Design principles, Debugging, Troubleshooting, Unit testing, Collaboration, Critical thinking, Task prioritization, Communication | 02-09 | <!-- JobID: Rie37EfrnG -->
+| [Compiler Engineering Intern/Co-Op (Graduate \| Summer 2025 \| Hybrid)](https://www.indeed.com/viewjob?jk=f149d2b6e8fa25df&tk=1ijm0t8osgfai82k&from=serp&vjs=3) | Advanced Micro Devices, Inc | Hybrid work in San Jose, CA 95124 | Compilers, Optimization Techniques, C++, Python, LLVM/MLIR, Polyhedral Compilation | 02-09 | <!-- JobID: T374lKjCT2 -->
+| [2025 Summer Intern - OSS](https://www.indeed.com/viewjob?jk=e9722126a9b2ada6&tk=1ijm2pa0g2cs303o&from=serp&vjs=3) | TSMC | Camas, WA 98607 | Java, C library, Web development, NATS, MariaDB, Problem-solving, Communication, Teamwork, Active learning | 02-09 | <!-- JobID: obIFsBIU9b -->
 | [Frontend Software Engineer Intern, Stablecoin (Summer 2025)](https://www.indeed.com/viewjob?jk=d15f16075186c0e5&tk=1ijh28e44kgpg87h&from=serp&vjs=3) | Ripple | New York, NY | Typescript, Javascript, Client-side application development, Coding best practices, Testing and deployment, Intellectual curiosity, Collaboration, Positive attitude | 02-07 | <!-- JobID: 7a3vbSHk7q -->
 | [Software Engineering Intern (Summer 2025)](https://www.indeed.com/viewjob?jk=069bc1ca0bf4d79a&tk=1ijh2rk41ggr985o&from=serp&vjs=3) | GLOBALFOUNDRIES | Essex Junction, VT 05452 | Programming Languages, Relational Database, Problem Solving, Communication Skills, Project Management, Data Structures, Operating Systems, Planning & Organizational Skills | 02-07 | <!-- JobID: 6QYV02zAcu -->
 | [Software Engineer Intern, Stablecoin (Summer 2025)](https://www.indeed.com/viewjob?jk=16b9416c989f9280&tk=1ijh2rk41ggr985o&from=serp&vjs=3) | Ripple | New York, NY | Programming languages (Java/Scala/Kotlin), Cloud deployment, Backend services development, Collaboration, Problem-solving, Coding best practices | 02-07 | <!-- JobID: mXEArzRS1z -->
