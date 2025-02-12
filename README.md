@@ -8,10 +8,11 @@
 ## <a href="https://mentorx.net">蔓藤教育：美国求职，美国实习，英澳实习求职专家</a>
 ## Latest Internship Opportunities
 
-_Last updated: 02-09_
+_Last updated: 02-11_
 
 | Job Title | Company | Location | Required Skills | Posted |
 |-----------|---------|----------|-----------------|--------|
+| [Software Engineer - Spring 2025 Co-op Research Park](https://www.indeed.com/viewjob?jk=a78a6c26c26a3ac0&tk=1ijm0u42bkgol80i&from=serp&vjs=3) | Motorola Solutions | Champaign, IL 61820 | Software development, Application development, Cybersecurity, Cloud computing, Microservices, Data analytics, Agile practices, Strong communication skills, Problem solving skills | 02-09 | <!-- JobID: IW885HAoNL -->
 | [Software Development Intern- Summer 2025](https://www.indeed.com/viewjob?jk=c3b6deb15f028755&tk=1ijm0t8osgfai82k&from=serp&vjs=3) | ABB | Fort Smith, AR 72901 | Coding, Design principles, Debugging, Troubleshooting, Unit testing, Collaboration, Critical thinking, Task prioritization, Communication | 02-09 | <!-- JobID: Rie37EfrnG -->
 | [Compiler Engineering Intern/Co-Op (Graduate \| Summer 2025 \| Hybrid)](https://www.indeed.com/viewjob?jk=f149d2b6e8fa25df&tk=1ijm0t8osgfai82k&from=serp&vjs=3) | Advanced Micro Devices, Inc | Hybrid work in San Jose, CA 95124 | Compilers, Optimization Techniques, C++, Python, LLVM/MLIR, Polyhedral Compilation | 02-09 | <!-- JobID: T374lKjCT2 -->
 | [2025 Summer Intern - OSS](https://www.indeed.com/viewjob?jk=e9722126a9b2ada6&tk=1ijm2pa0g2cs303o&from=serp&vjs=3) | TSMC | Camas, WA 98607 | Java, C library, Web development, NATS, MariaDB, Problem-solving, Communication, Teamwork, Active learning | 02-09 | <!-- JobID: obIFsBIU9b -->
