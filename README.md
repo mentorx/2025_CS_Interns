@@ -8,10 +8,14 @@
 ## <a href="https://mentorx.net">蔓藤教育：美国求职，美国实习，英澳实习求职专家</a>
 ## Latest Internship Opportunities
 
-_Last updated: 02-11_
+_Last updated: 02-13_
 
 | Job Title | Company | Location | Required Skills | Posted |
 |-----------|---------|----------|-----------------|--------|
+| [Software Engineer - Spring 2025 Co-Op Research Park](https://www.indeed.com/viewjob?jk=c60347d08bdeb43d&tk=1ik0agm18hieh84a&from=serp&vjs=3) | Motorola Solutions | Champaign, IL 61820 | Cloud Computing, Microservices-based application development, Data analytics, Cybersecurity, Team software development using Agile practices, Strong communication skills, Problem solving skills | 02-13 | <!-- JobID: JFCFoZ6zh5 -->
+| [Software Development Co-op (Fall 2025)](https://www.indeed.com/viewjob?jk=ac9aba06810b8a42&tk=1ijr5hm5fijti86o&from=serp&vjs=3) | Emerson | Elyria, OH 44035 | Object-oriented programming, Java, .NET, iOS, Android, Relational database/SQL, HTML/CSS, JavaScript, Full-stack development, DevOps | 02-13 | <!-- JobID: kblCiTWSFD -->
+| [Software Verification Fall 2025 Co-Op](https://www.indeed.com/viewjob?jk=a856adcd85cc406c&tk=1ijr4s4k12div052&from=serp&vjs=3) | Tektronix | Cleveland, OH 44139 | C/C++, Python, Lua, Embedded firmware, Analog hardware circuit design, Digital hardware design, Structured problem solving, Windows/Unix/Linux Operating Systems | 02-13 | <!-- JobID: gTyh201jlm -->
+| [Co-op - SW Development Engineer (Automation) - May - December 2025](https://www.indeed.com/viewjob?jk=3bc05aee7f11c46d&tk=1ijr5nb30i0i089c&from=serp&vjs=3) | Philips | Cambridge, MA | C#/.NET, WCF, Visual Studio, Azure DevOps Service, OOP concepts, test automation principles, Behavioral-driven development (BDD), analytical & troubleshooting skills, strong written and verbal skills | 02-13 | <!-- JobID: SD0wJ7ICSq -->
 | [Software Engineer - Spring 2025 Co-op Research Park](https://www.indeed.com/viewjob?jk=a78a6c26c26a3ac0&tk=1ijm0u42bkgol80i&from=serp&vjs=3) | Motorola Solutions | Champaign, IL 61820 | Software development, Application development, Cybersecurity, Cloud computing, Microservices, Data analytics, Agile practices, Strong communication skills, Problem solving skills | 02-09 | <!-- JobID: IW885HAoNL -->
 | [Software Development Intern- Summer 2025](https://www.indeed.com/viewjob?jk=c3b6deb15f028755&tk=1ijm0t8osgfai82k&from=serp&vjs=3) | ABB | Fort Smith, AR 72901 | Coding, Design principles, Debugging, Troubleshooting, Unit testing, Collaboration, Critical thinking, Task prioritization, Communication | 02-09 | <!-- JobID: Rie37EfrnG -->
 | [Compiler Engineering Intern/Co-Op (Graduate \| Summer 2025 \| Hybrid)](https://www.indeed.com/viewjob?jk=f149d2b6e8fa25df&tk=1ijm0t8osgfai82k&from=serp&vjs=3) | Advanced Micro Devices, Inc | Hybrid work in San Jose, CA 95124 | Compilers, Optimization Techniques, C++, Python, LLVM/MLIR, Polyhedral Compilation | 02-09 | <!-- JobID: T374lKjCT2 -->
