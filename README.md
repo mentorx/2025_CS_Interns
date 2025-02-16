@@ -8,10 +8,12 @@
 ## <a href="https://mentorx.net">蔓藤教育：美国求职，美国实习，英澳实习求职专家</a>
 ## Latest Internship Opportunities
 
-_Last updated: 02-13_
+_Last updated: 02-15_
 
 | Job Title | Company | Location | Required Skills | Posted |
 |-----------|---------|----------|-----------------|--------|
+| [NetherRealm Software Engineering Co-op: Chicago - Summer 2025 (June-December)](https://www.indeed.com/viewjob?jk=ec86acbe9ce0851b&tk=1ik5engqmgmv18cp&from=serp&vjs=3) | Warner Bros. Discovery | Chicago, IL 60618 | C++, collaboration, problem solving, communication, debugging, 3D math, Unreal Engine | 02-15 | <!-- JobID: sLjS9FbtjJ -->
+| [Security Engineer – 2025 (US)](https://www.indeed.com/viewjob?jk=f1b1918ae59c603a&tk=1ik0ue6h6297m08k&from=serp&vjs=3) | Amazon.com Services LLC | Seattle, WA | Python, C, C++, Java, Ruby, PowerShell, network security, application security, cryptography, AWS Services, Wireshark, Metasploit | 02-13 | <!-- JobID: DrLEiboWQs -->
 | [Software Engineer - Spring 2025 Co-Op Research Park](https://www.indeed.com/viewjob?jk=c60347d08bdeb43d&tk=1ik0agm18hieh84a&from=serp&vjs=3) | Motorola Solutions | Champaign, IL 61820 | Cloud Computing, Microservices-based application development, Data analytics, Cybersecurity, Team software development using Agile practices, Strong communication skills, Problem solving skills | 02-13 | <!-- JobID: JFCFoZ6zh5 -->
 | [Software Development Co-op (Fall 2025)](https://www.indeed.com/viewjob?jk=ac9aba06810b8a42&tk=1ijr5hm5fijti86o&from=serp&vjs=3) | Emerson | Elyria, OH 44035 | Object-oriented programming, Java, .NET, iOS, Android, Relational database/SQL, HTML/CSS, JavaScript, Full-stack development, DevOps | 02-13 | <!-- JobID: kblCiTWSFD -->
 | [Software Verification Fall 2025 Co-Op](https://www.indeed.com/viewjob?jk=a856adcd85cc406c&tk=1ijr4s4k12div052&from=serp&vjs=3) | Tektronix | Cleveland, OH 44139 | C/C++, Python, Lua, Embedded firmware, Analog hardware circuit design, Digital hardware design, Structured problem solving, Windows/Unix/Linux Operating Systems | 02-13 | <!-- JobID: gTyh201jlm -->
