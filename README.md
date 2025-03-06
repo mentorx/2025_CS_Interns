@@ -8,10 +8,12 @@
 ## <a href="https://mentorx.net">蔓藤教育：美国求职，美国实习，英澳实习求职专家</a>
 ## Latest Internship Opportunities
 
-_Last updated: 03-03_
+_Last updated: 03-05_
 
 | Job Title | Company | Location | Required Skills | Posted |
 |-----------|---------|----------|-----------------|--------|
+| [Critical Communication Networks Software Engineer - Summer 2025 Internship](https://www.indeed.com/viewjob?jk=6728afa9f9168b19&tk=1ilekur31lvup870&from=serp&vjs=3) | Motorola Solutions | Schaumburg, IL 60196 | Java, JavaScript, C, C++, Cloud-based technologies (Azure/AWS), Embedded Real-Time applications, DevOps, Teamwork, Communication | 03-03 | <!-- JobID: XxtIvOfVIr -->
+| [CO-OP Student (Cyber System Exploitation, 05-59) (July-December 2025)](https://www.indeed.com/viewjob?jk=7b65b7a79a006a7a&tk=1ilf2vgjnj3hn88n&from=serp&vjs=3) | MIT Lincoln Laboratory | Hybrid work in Lexington, MA | Reverse engineering, Static/dynamic software analysis, AI/ML/data science approaches to malware analysis, Windows/Linux OS internals, Python, C/C++, PostgreSQL, Elasticsearch/Logstash/Kibana, Docker/Kubernetes, Git, Jenkins, Ability to develop a self-driven research project, Ability to communicate effectively through technical writing/presentation | 03-03 | <!-- JobID: SDOTFth5Kc -->
 | [Software Engineer Co-Op (Summer 2025 Start) – Construction & Engineering](https://www.indeed.com/viewjob?jk=fccf7ca23a194831&tk=1ildme98ngp8m87q&from=serp&vjs=3) | Oracle | Santa Clara, CA 95054 | Java, Python, C#, SQL, JavaScript, CSS, HTML, Artificial Intelligence, Algorithms, Big Data, Data Structures, Database, Machine Learning, Object-Oriented Programming, Software Programming, Web/Mobile Development, Micro-Services Architecture, Container Architecture, User Interface Design | 03-03 | <!-- JobID: WqSwVfxjZi -->
 | [2025 PhD Software Engineer Intern (Marketplace Signals), United States](https://www.indeed.com/viewjob?jk=78211943c929188f&tk=1ildhm6e7iq4k845&from=serp&vjs=3) | Uber | Seattle, WA | machine learning, optimization, statistics, data science, object-oriented programming, C++, Java, Python, Go, communication | 03-03 | <!-- JobID: hIFJvSK9Ac -->
 | [Cloud Software Engineer Intern - Summer 2025](https://www.indeed.com/viewjob?jk=c5b8fd2f5e16d0ee&tk=1ild89i86iv9588v&from=serp&vjs=3) | Lenovo | Morrisville, NC | Python, AI technologies, analytical skills, problem-solving skills, communication skills, teamwork skills, data analysis, presentation tools, spreadsheet software | 03-03 | <!-- JobID: GOk0aQNm10 -->
