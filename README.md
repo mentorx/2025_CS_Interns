@@ -8,10 +8,12 @@
 ## <a href="https://mentorx.net">蔓藤教育：美国求职，美国实习，英澳实习求职专家</a>
 ## Latest Internship Opportunities
 
-_Last updated: 03-17_
+_Last updated: 03-19_
 
 | Job Title | Company | Location | Required Skills | Posted |
 |-----------|---------|----------|-----------------|--------|
+| [Computer Science Engineer Co-op- Fall 2025](https://www.indeed.com/viewjob?jk=d820d0b94a05b494&tk=1imntnm66jdnm801&from=serp&vjs=3) | MilliporeSigma | Danvers, MA 01923 | VBA, C#.NET, SQL, HTML, CSS, JavaScript, Microsoft platforms, communication skills, goal oriented, detail oriented, self-motivated, organized | 03-19 | <!-- JobID: wiHYUv7mMD -->
+| [Software Engineer Intern (MSP) - 2025 Summer (BS/MS)](https://www.indeed.com/viewjob?jk=784ca9769899fcf6&tk=1imj5naspgo7s86o&from=serp&vjs=3) | TikTok | San Jose, CA | Programming, Debugging, Optimization, Critical Thinking, Communication, Teamwork, Agility, Self-starter, Ad Tech Knowledge, Product Sense | 03-17 | <!-- JobID: ol0jNGJFiY -->
 | [Intern - Software Development Engineer (Summer 2025)](https://www.indeed.com/viewjob?jk=26b42d99381725ec&tk=1imik3kf2j1eq89s&from=serp&vjs=3) | Hasbro Inc. | Renton, WA | object-oriented programming (OOP), C++, C#, software development life cycle (SDLC), unit testing, functional testing, integrated testing, CI/CD | 03-17 | <!-- JobID: vQCmcGS5ty -->
 | [Software Engineer Intern ( Recommendation Infra-Data-Arch-TikTok US) - 2025 Summer (BS/MS)](https://www.indeed.com/viewjob?jk=53b6d15e5bcb5518&tk=1imij2s1lgoop80f&from=serp&vjs=3) | ByteDance | Seattle, WA | Programming languages (C, C++, Java, Python), Effective communication skills, Self-driven learner, Sense of ownership, Experience in personalized recommendations, search engine, machine learning, distributed storage system, big data frameworks | 03-17 | <!-- JobID: qekh6S9GPO -->
 | [Software Engineer Intern 2025](https://www.indeed.com/viewjob?jk=ade12e3b9ea82412&tk=1imj0ir4eghah863&from=serp&vjs=3) | Turtle Beach | San Diego, CA (Mission Bay Park area) | Programming languages (Python, Java, JavaScript, C++), Version control systems (Git), Software development methodologies, Problem-solving skills, Communication skills, Attention to detail, Teamwork | 03-17 | <!-- JobID: RYbwtGbTye -->
