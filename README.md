@@ -8,10 +8,13 @@
 ## <a href="https://mentorx.net">蔓藤教育：美国求职，美国实习，英澳实习求职专家</a>
 ## Latest Internship Opportunities
 
-_Last updated: 03-19_
+_Last updated: 03-21_
 
 | Job Title | Company | Location | Required Skills | Posted |
 |-----------|---------|----------|-----------------|--------|
+| [Summer 2025 internship (Eden, NC only) - Distributed Controls Systems](https://www.indeed.com/viewjob?jk=08951bc1ce37bfe4&tk=1imns3l3ug05680v&from=serp&vjs=3) | Duke Energy | Eden, NC | software engineering, data analytics, artificial intelligence, cybersecurity, cloud engineering, programming languages, operating systems, computer networks, Angular, Java, Python, cloud environments, Linux, Windows, Active Directory, Infrastructure as Code, Networking, Data Center Infrastructure, relational databases, SQL, Agile Methodology, willingness to learn | 03-19 | <!-- JobID: oz9TOgkKAR -->
+| [Software Engineer Intern (Ads Interface) - 2025 Summer (BS/MS)](https://www.indeed.com/viewjob?jk=acb722de5ad6f3c5&tk=1imnv5koojce588c&from=serp&vjs=3) | TikTok | San Jose, CA | Programming, Debugging, Optimization, Communication, Teamwork, Critical Thinking, Ad Tech Knowledge, Product Design | 03-19 | <!-- JobID: hBhxUXamYG -->
+| [Software Developer Intern (Full-Stack) - June 2025](https://www.indeed.com/viewjob?jk=2fd1c0afe10bf456&tk=1imnrt78nh3no84l&from=serp&vjs=3) | Staples, Inc. | Hybrid work in Framingham, MA 01701 | Frontend Development, Backend Development, Java, Spring Boot, Microservices Architecture, RESTful APIs, SQL, Agile Methodologies, Software Development Life Cycle (SDLC), Cloud Technologies | 03-19 | <!-- JobID: Oc1y8DD11m -->
 | [Computer Science Engineer Co-op- Fall 2025](https://www.indeed.com/viewjob?jk=d820d0b94a05b494&tk=1imntnm66jdnm801&from=serp&vjs=3) | MilliporeSigma | Danvers, MA 01923 | VBA, C#.NET, SQL, HTML, CSS, JavaScript, Microsoft platforms, communication skills, goal oriented, detail oriented, self-motivated, organized | 03-19 | <!-- JobID: wiHYUv7mMD -->
 | [Software Engineer Intern (MSP) - 2025 Summer (BS/MS)](https://www.indeed.com/viewjob?jk=784ca9769899fcf6&tk=1imj5naspgo7s86o&from=serp&vjs=3) | TikTok | San Jose, CA | Programming, Debugging, Optimization, Critical Thinking, Communication, Teamwork, Agility, Self-starter, Ad Tech Knowledge, Product Sense | 03-17 | <!-- JobID: ol0jNGJFiY -->
 | [Intern - Software Development Engineer (Summer 2025)](https://www.indeed.com/viewjob?jk=26b42d99381725ec&tk=1imik3kf2j1eq89s&from=serp&vjs=3) | Hasbro Inc. | Renton, WA | object-oriented programming (OOP), C++, C#, software development life cycle (SDLC), unit testing, functional testing, integrated testing, CI/CD | 03-17 | <!-- JobID: vQCmcGS5ty -->
