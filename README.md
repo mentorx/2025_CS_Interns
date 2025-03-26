@@ -8,10 +8,13 @@
 ## <a href="https://mentorx.net">蔓藤教育：美国求职，美国实习，英澳实习求职专家</a>
 ## Latest Internship Opportunities
 
-_Last updated: 03-23_
+_Last updated: 03-25_
 
 | Job Title | Company | Location | Required Skills | Posted |
 |-----------|---------|----------|-----------------|--------|
+| [Software Development Co-Op - Summer 2025 - Indefinite Work Authorization Required](https://www.indeed.com/viewjob?jk=b0e1b38ff1f13110&tk=1in77aag5j1og801&from=serp&vjs=3) | Crown Equipment Corporation | Hybrid work in New Bremen, OH 45869 | Java, Angular, programming, analytical skills, interpersonal skills, attention to detail, Scrum, written communication, verbal communication | 03-25 | <!-- JobID: KGB47CEKlH -->
+| [2025 Software Internship for Solutions. Platforms. Engineered. (SPE)](https://www.indeed.com/viewjob?jk=99150737099dda6b&tk=1in2ajhovia7i87a&from=serp&vjs=3) | Solar Turbines | San Diego, CA (Harborview area) | C# programming, object-oriented programming, engineering fundamentals, teamwork, problem solving, communication skills, business/technical judgment, multi-tasking | 03-23 | <!-- JobID: oNG3eI3nga -->
+| [Software Engineer Intern (Summer 2025)](https://www.indeed.com/viewjob?jk=239bbba16bc2e856&tk=1in2ajhovia7i87a&from=serp&vjs=3) | OptiSigns Inc. | Houston, TX 77040 | JavaScript, TypeScript, React, Node.js, Express, MongoDB, Problem-Solving, Communication, Teamwork | 03-23 | <!-- JobID: BrIHikdjgL -->
 | [Engineering Intern 2025](https://www.indeed.com/viewjob?jk=a35d3bba12022d0d&tk=1imt2s395gedo853&from=serp&vjs=3) | Smith Micro Software, Inc. | Hybrid work in Pittsburgh, PA 15237 | Java, Docker, AWS, Swift, Kotlin, MySQL, PostgreSQL, data structures, algorithms, software development principles, object-oriented programming, critical thinking, problem-solving, communication, collaboration, attention to detail | 03-21 | <!-- JobID: xg9zTOflIY -->
 | [Full Stack Developer (FALL 2025)](https://www.indeed.com/viewjob?jk=dc95b42c18ed8f77&tk=1imt43bnuj3l8858&from=serp&vjs=3) | BMW | Spartanburg, SC | Agile methodology, Azure DevOps, TypesScript, JavaScript, Angular, NestJS, AWS, PostgreSQL, GraphQL, C, C++, Java, Python, Swift, Database management, Effective communication | 03-21 | <!-- JobID: Ioxz3exCPT -->
 | [Software Engineer Co-op (Fall 2025)](https://www.indeed.com/viewjob?jk=a952e4f3ed944005&tk=1imt1k2imj3jp800&from=serp&vjs=3) | BMW | Spartanburg, SC | C#, SQL, PL/SQL, Python, HTML/CSS, JavaScript, object-oriented programming, analytical skills, problem-solving skills, project management, full stack development, agile methodology, presentation skills, team collaboration | 03-21 | <!-- JobID: Yg6P7UR4Xg -->
