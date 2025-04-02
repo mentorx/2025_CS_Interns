@@ -8,10 +8,13 @@
 ## <a href="https://mentorx.net">蔓藤教育：美国求职，美国实习，英澳实习求职专家</a>
 ## Latest Internship Opportunities
 
-_Last updated: 03-31_
+_Last updated: 04-01_
 
 | Job Title | Company | Location | Required Skills | Posted |
 |-----------|---------|----------|-----------------|--------|
+| [Compiler Software Engineer Intern - Summer 2025](https://www.indeed.com/viewjob?jk=0e7662895efa41e3&tk=1inpg6teqlvsu810&from=serp&vjs=3) | NVIDIA | Austin, TX 78701 | C++, Compiler Design, Software Engineering best practices, Strong writing and oral skills, Unit testing methods | 04-01 | <!-- JobID: R00uQCtGew -->
+| [2025 Intern - Software Engineer (ES) - Hunt Valley, MD](https://www.indeed.com/viewjob?jk=1aed2ed0310d170e&tk=1inn6gnfojdkn801&from=serp&vjs=3) | Textron Systems | Hunt Valley, MD 21065 | C/C++/C# programming languages, database application knowledge, basic computer skills (e.g. word processing, spreadsheet, presentation), software development, team collaboration | 03-31 | <!-- JobID: 2LQJLNQSzU -->
+| [Backend Engineering Intern - Summer 2025](https://www.indeed.com/viewjob?jk=c0f6631bb3e15033&tk=1inmq5591hid282n&from=serp&vjs=3) | CareSwift | Hybrid work in New York, NY 10007 | Go programming language, Microservices architecture, RESTful APIs, gRPC, Docker, Kubernetes, PostgreSQL, Git, Problem-solving skills, Attention to detail, Self-motivated | 03-31 | <!-- JobID: QrWLjjuugT -->
 | [Software Engineering Intern - Summer 2025](https://www.indeed.com/viewjob?jk=ea22fcdf5494acbc&tk=1inhvlvjhg06t85l&from=serp&vjs=3) | Juniper Networks | Sunnyvale, CA (West Murphy area) | Programming fundamentals, Python, C, C++, Golang, Operating systems, Computer networking concepts, Linux, Data science, AI/ML, Cloud software concepts, Software development tools, Analytical skills, Problem-solving skills, Communication skills, Leadership experience, Enthusiasm | 03-29 | <!-- JobID: TL4B9hVRG7 -->
 | [Software Engineering Intern - Summer 2025](https://www.indeed.com/viewjob?jk=92690ddfa1a36a18&tk=1inhvlvjhg06t85l&from=serp&vjs=3) | Juniper Networks | Sunnyvale, CA (West Murphy area) | Programming fundamentals, Python, C, C++, Golang, Operating systems, Computer networking concepts, Linux, Data science, AI/ML, Cloud software concepts, Software development tools, Analytical skills, Problem-solving skills, Communication skills, Leadership experience, Enthusiasm | 03-29 | <!-- JobID: y5GAbOlNGu -->
 | [Software Engineering Internship - Fall 2025](https://www.indeed.com/viewjob?jk=3a74af3e96f157b1&tk=1inhgc4pf233906r&from=serp&vjs=3) | UKG | Weston, FL | Java, Python, Object Oriented Programming, Data Structures, Algorithms, Problem-solving, Communication, Teamwork, Continuous learning | 03-29 | <!-- JobID: xHZgvCOk5V -->
