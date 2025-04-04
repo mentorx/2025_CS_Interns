@@ -8,10 +8,14 @@
 ## <a href="https://mentorx.net">蔓藤教育：美国求职，美国实习，英澳实习求职专家</a>
 ## Latest Internship Opportunities
 
-_Last updated: 04-01_
+_Last updated: 04-03_
 
 | Job Title | Company | Location | Required Skills | Posted |
 |-----------|---------|----------|-----------------|--------|
+| [Lenovo Research Intern - Summer 2025](https://www.indeed.com/viewjob?jk=efd8342b4dd6ef62&tk=1inul441i222i081&from=serp&vjs=3) | Lenovo | Morrisville, NC | Machine Learning, Deep Learning, Computer Vision, Image Processing, Natural Language Processing, Programming (Java, Python, C, C++, MATLAB), Data Structures and Algorithms, Innovation | 04-03 | <!-- JobID: DZqxxHLnDC -->
+| [Summer 2025 Intern - Software Development and GPU Acceleration for the Porous Microstructure Analysis (PuMA) Software](https://www.indeed.com/viewjob?jk=3ea0fe4078d43d97&tk=1inp7h6ng24eh08s&from=serp&vjs=3) | Analytical Mechanics Associates, Inc. | Moffett Field, CA | numerical methods, scientific computing, C++, Python, GPU programming, parallel programming, High-Performance Computing (HPC), communication skills, teamwork | 04-01 | <!-- JobID: UHSP9ISCuW -->
+| [Internship, C++ Software Engineer, Optimus (Fall 2025)](https://www.indeed.com/viewjob?jk=8c9dfd21a0149105&tk=1inpsqb55jcep852&from=serp&vjs=3) | Tesla | Palo Alto, CA 94304 | C/C++ programming, multithreading, Python, embedded systems software design, communication standards (CAN, ethercat, ethernet), Linux development, problem solving, critical thinking, communication skills | 04-01 | <!-- JobID: hpPEkZwbZJ -->
+| [GE Vernova Gas Power Analyst Intern – Fall 2025](https://www.indeed.com/viewjob?jk=13ffe426966c78c2&tk=1inpn4c1hhid685s&from=serp&vjs=3) | GE Vernova | Greenville, SC 29615 | Python, C/C++, C#, Qt, shell scripting, fortran, VBA, analytical skills, problem solving, program management, process skills, detail oriented, organizational skills | 04-01 | <!-- JobID: EpzOOVgrvZ -->
 | [Compiler Software Engineer Intern - Summer 2025](https://www.indeed.com/viewjob?jk=0e7662895efa41e3&tk=1inpg6teqlvsu810&from=serp&vjs=3) | NVIDIA | Austin, TX 78701 | C++, Compiler Design, Software Engineering best practices, Strong writing and oral skills, Unit testing methods | 04-01 | <!-- JobID: R00uQCtGew -->
 | [2025 Intern - Software Engineer (ES) - Hunt Valley, MD](https://www.indeed.com/viewjob?jk=1aed2ed0310d170e&tk=1inn6gnfojdkn801&from=serp&vjs=3) | Textron Systems | Hunt Valley, MD 21065 | C/C++/C# programming languages, database application knowledge, basic computer skills (e.g. word processing, spreadsheet, presentation), software development, team collaboration | 03-31 | <!-- JobID: 2LQJLNQSzU -->
 | [Backend Engineering Intern - Summer 2025](https://www.indeed.com/viewjob?jk=c0f6631bb3e15033&tk=1inmq5591hid282n&from=serp&vjs=3) | CareSwift | Hybrid work in New York, NY 10007 | Go programming language, Microservices architecture, RESTful APIs, gRPC, Docker, Kubernetes, PostgreSQL, Git, Problem-solving skills, Attention to detail, Self-motivated | 03-31 | <!-- JobID: QrWLjjuugT -->
