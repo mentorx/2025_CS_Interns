@@ -8,10 +8,13 @@
 ## <a href="https://mentorx.net">蔓藤教育：美国求职，美国实习，英澳实习求职专家</a>
 ## Latest Internship Opportunities
 
-_Last updated: 05-03_
+_Last updated: 05-05_
 
 | Job Title | Company | Location | Required Skills | Posted |
 |-----------|---------|----------|-----------------|--------|
+| [Intern, Software & Automation - Summer 2025](https://www.indeed.com/viewjob?jk=ba832cd8f2936b8b&tk=1iqgsudmbk3d989g&from=serp&vjs=3) | PSEMI CORPORATION | San Diego, CA | C# programming, Object-oriented programming, Automation scripting, RF measurement equipment usage, Circuit theory, Lab equipment proficiency (power supplies, oscilloscopes, multimeters, spectrum analyzers), Data analysis, Git version control, Problem-solving, Communication and interpersonal skills | 05-05 | <!-- JobID: hJCGsbleC9 -->
+| [Internship, Security Engineer, Applications Engineering (Fall 2025)](https://www.indeed.com/viewjob?jk=a68c0ea3d8fcbb4b&tk=1iqbp6ae4iufe85u&from=serp&vjs=3) | Tesla | Fremont, CA 94538 | Python, Go, Java, Ruby, C/C++, SIEM, SQL, Splunk, collaboration, detail-oriented, execution focused, curiosity, independent work | 05-03 | <!-- JobID: sMAmG3VsBr -->
+| [Intern, Intelligence Personal Assistant - Fall 2025](https://www.indeed.com/viewjob?jk=db7339eb43856a5e&tk=1iqc6avlij3lg88j&from=serp&vjs=3) | BMW | Mountain View, CA | Large Language Models (LLMs), Programming languages relevant to AI and machine learning, Communication, Presentation, Organizational skills, Leadership skills, Analytical capabilities, Software development, Team collaboration, English and German (fluent, oral and written) | 05-03 | <!-- JobID: 41TYTaDvra -->
 | [Fall 2025 Software Development Internship](https://www.indeed.com/viewjob?jk=b82be67cb39465d9&tk=1iqbn9ve1j3kh88k&from=serp&vjs=3) | RF-SMART | Jacksonville, FL | JavaScript (backend), Agile development, collaboration, coding standards, version control, debugging, software development lifecycle, communication | 05-03 | <!-- JobID: PVAUhT3M4t -->
 | [Back-end Engineering Intern - Summer 2025](https://www.indeed.com/viewjob?jk=9cfbaefc8bf00d4c&tk=1iq91vr0tg6ne84s&from=serp&vjs=3) | NaviStone | Cincinnati, OH 45202 | C#, .Net, JavaScript, SQL, Python, Agile Methodology, Self-starter, Collaboration, Communication | 05-02 | <!-- JobID: zikbfLXHeb -->
 | [Software Engineering Intern, GenAI - Fall 2025](https://www.indeed.com/viewjob?jk=97325a8b817af31d&tk=1iq91vr0tg6ne84s&from=serp&vjs=3) | NVIDIA | Sanger, CA 93657 | Python development, Python data science, generative AI, LLM agents and LLM frameworks (LangChain, CrewAI, AutoGen), data science techniques, GPU-based compute (CUDA, RAPIDS), ability to work in distributed engineering team, innovative approaches and implementations, problem solving and engineering efficiency | 05-02 | <!-- JobID: DkVvH5zNH7 -->
