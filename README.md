@@ -8,10 +8,12 @@
 ## <a href="https://mentorx.net">蔓藤教育：美国求职，美国实习，英澳实习求职专家</a>
 ## Latest Internship Opportunities
 
-_Last updated: 05-05_
+_Last updated: 05-07_
 
 | Job Title | Company | Location | Required Skills | Posted |
 |-----------|---------|----------|-----------------|--------|
+| [Internship, Fullstack Engineer, Infrastructure Engineering (Fall 2025)](https://www.indeed.com/viewjob?jk=7fad6cf5bcd93d35&tk=1iqhas01oj0qo82f&from=serp&vjs=3) | Tesla | Fremont, CA 94538 | Python, Go, Java, C/C++, building and/or maintaining infrastructure and services, fundamental computer science concepts, collaboration, detail-oriented, execution focused, React, JS, Angular, CSS, MySQL, MS SQL, Oracle | 05-05 | <!-- JobID: NBKSBEBJT1 -->
+| [2025 Summer Intern, MS/PhD, Research - Planner ML](https://www.indeed.com/viewjob?jk=ddda5f89a5be8b19&tk=1iqhc42ctlvvd8br&from=serp&vjs=3) | Waymo | Hybrid work in Mountain View, CA | Machine Learning modeling, Reinforcement Learning, Python programming, JAX programming, Research experience, Presentation skills, Transformer-based model development, Knowledge of autonomous vehicle (AV) industry, Data analysis (open-loop and closed-loop) | 05-05 | <!-- JobID: oU98i5dtFf -->
 | [Intern, Software & Automation - Summer 2025](https://www.indeed.com/viewjob?jk=ba832cd8f2936b8b&tk=1iqgsudmbk3d989g&from=serp&vjs=3) | PSEMI CORPORATION | San Diego, CA | C# programming, Object-oriented programming, Automation scripting, RF measurement equipment usage, Circuit theory, Lab equipment proficiency (power supplies, oscilloscopes, multimeters, spectrum analyzers), Data analysis, Git version control, Problem-solving, Communication and interpersonal skills | 05-05 | <!-- JobID: hJCGsbleC9 -->
 | [Internship, Security Engineer, Applications Engineering (Fall 2025)](https://www.indeed.com/viewjob?jk=a68c0ea3d8fcbb4b&tk=1iqbp6ae4iufe85u&from=serp&vjs=3) | Tesla | Fremont, CA 94538 | Python, Go, Java, Ruby, C/C++, SIEM, SQL, Splunk, collaboration, detail-oriented, execution focused, curiosity, independent work | 05-03 | <!-- JobID: sMAmG3VsBr -->
 | [Intern, Intelligence Personal Assistant - Fall 2025](https://www.indeed.com/viewjob?jk=db7339eb43856a5e&tk=1iqc6avlij3lg88j&from=serp&vjs=3) | BMW | Mountain View, CA | Large Language Models (LLMs), Programming languages relevant to AI and machine learning, Communication, Presentation, Organizational skills, Leadership skills, Analytical capabilities, Software development, Team collaboration, English and German (fluent, oral and written) | 05-03 | <!-- JobID: 41TYTaDvra -->
