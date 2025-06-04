@@ -8,10 +8,13 @@
 ## <a href="https://mentorx.net">蔓藤教育：美国求职，美国实习，英澳实习求职专家</a>
 ## Latest Internship Opportunities
 
-_Last updated: 06-01_
+_Last updated: 06-03_
 
 | Job Title | Company | Location | Required Skills | Posted |
 |-----------|---------|----------|-----------------|--------|
+| [Software Engineer Intern - Backend/Full-stack (US Remote - Fall 2025)](https://www.indeed.com/viewjob?jk=6117f175f39a9eca&tk=1isrhjbsnjo1f865&from=serp&vjs=3) | Splunk | Remote | Programming (Go, Java, Python), Docker, Kubernetes, Public cloud platforms (AWS, GCP, Azure), REST APIs, Test-driven development, Automated testing (unit, functional, integration, system, performance/load), Agile development, Communication skills (verbal and written), Problem-solving skills, Collaboration in fast-paced environment, Ability to learn new technologies quickly | 06-03 | <!-- JobID: 3rlVDXrPmz -->
+| [Fall 2025 Software Engineering Intern](https://www.indeed.com/viewjob?jk=429280d4fc2f4844&tk=1isma16jaijss85b&from=serp&vjs=3) | Leonardo DRS | Beavercreek, OH 45431 | Testing, Data gathering, Design analysis, Communication, Teamwork | 06-01 | <!-- JobID: rM1qnSkhBH -->
+| [Networking Software Intern- Fall 2025](https://www.indeed.com/viewjob?jk=88172be1b4fdfb50&tk=1ismmfkopgopp861&from=serp&vjs=3) | NVIDIA | Santa Clara, CA 95050 | C programming, Python programming, Shell scripting, Data networking (TCP/IP, IP routing protocols), Software development in Linux environment, GNU toolset, Git, Teamwork, Communication skills | 06-01 | <!-- JobID: 4hptnUJQlq -->
 | [Fall 2025 Software Engineering Intern](https://www.indeed.com/viewjob?jk=a91c09a26e7ca83c&tk=1ismeubl3222v08p&from=serp&vjs=3) | Leonardo DRS | Beavercreek, OH 45431 | Testing, Data gathering and assembly, Design analysis, Engineering support, Communication, Teamwork | 06-01 | <!-- JobID: eWJ9IWUXpp -->
 | [Software Engineer Intern Full Stack Summer 2025](https://www.indeed.com/viewjob?jk=397e8935ede868eb&tk=1ismcok8kj2on801&from=serp&vjs=3) | Follio Inc | Remote | Python, JavaScript/TypeScript, HTML, CSS, FastAPI, React, Git, Command-line tools, Self-driven, Curious, Team collaboration | 06-01 | <!-- JobID: JfvmcGBOCd -->
 | [2025 Summer Intern – ADAS Insights](https://www.indeed.com/viewjob?jk=e19a0d8587e22209&tk=1iskb2ckvj2on82s&from=serp&vjs=3) | General Motors | Hybrid work in Mountain View, CA | AI, Machine Learning, Python, C++, MATLAB, TensorFlow, PyTorch, Scikit-learn, SQL, PySpark, Pandas, Data Visualization (Kibana, Power BI, Looker), Data Science, Data Engineering, Communication Skills, Collaboration, Problem Solving | 05-31 | <!-- JobID: lVvlES8lPx -->
