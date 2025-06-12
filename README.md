@@ -8,10 +8,11 @@
 ## <a href="https://mentorx.net">蔓藤教育：美国求职，美国实习，英澳实习求职专家</a>
 ## Latest Internship Opportunities
 
-_Last updated: 06-09_
+_Last updated: 06-11_
 
 | Job Title | Company | Location | Required Skills | Posted |
 |-----------|---------|----------|-----------------|--------|
+| [Software Development Intern - Fall 2025](https://www.indeed.com/viewjob?jk=bb5d22c863027098&tk=1itb2vgmci0jn82e&from=serp&vjs=3) | DuCharme, McMillen & Associates, Inc. | Hybrid work in Fort Wayne, IN 46802 | object-oriented programming (C# or Java), scripting languages (Javascript), MVC concepts, JDBC/SQL, relational databases, code reviews, unit test case development, technical support, diagnosing and triaging software issues, documentation (functional and technical), team collaboration, communication and interpersonal skills | 06-09 | <!-- JobID: sJr43WB0Qs -->
 | [Cloud QA Automation Engineer Intern (Fall 2025)](https://www.indeed.com/viewjob?jk=e5295b8f468cb41f&tk=1itb6opbfjits87v&from=serp&vjs=3) | Dolby | Sunnyvale, CA (East Murphy area) | Programming languages (Node.js, Python, Go, Java, Ruby, C/C++), Test automation tools development, Test-driven development and QA process, Cloud platforms (AWS, GCP, Azure), REST APIs and web services, Distributed systems, Written and verbal communication, Growth mindset | 06-09 | <!-- JobID: y1DaYrpQ6o -->
 | [Software Engineering Intern, LLM NIM Engineering - Fall 2025](https://www.indeed.com/viewjob?jk=0736d7eb00359a33&tk=1it6esms2j3hi89d&from=serp&vjs=3) | NVIDIA | Santa Clara, CA 95050 | Python coding, Experience with OSS ML inference stacks (e.g., Ollama, vllm, SGlang), Experience with serialization formats (e.g., HuggingFace, GGUF), Experience with containerization (e.g., Docker), Knowledge of LLMs and AI/ML coursework, Passion for software development | 06-07 | <!-- JobID: S5z95RJvDt -->
 | [Internship - Software Engineering - Fall 2025](https://www.indeed.com/viewjob?jk=04252f8c9a22b56e&tk=1it5s1tl8j1pq88n&from=serp&vjs=3) | Firefly Aerospace | Cedar Park, TX 78613 | C++, Python, LabVIEW, Aerospace Engineering knowledge, Software Engineering knowledge, Orbital mechanics, Trajectory analysis, Control theory, Filtering, Machine learning, Artificial intelligence, Database technologies, Networking, Embedded software, Verbal communication, Written communication, Task prioritization, Collaboration, Version control tools | 06-07 | <!-- JobID: DUmBrEf5Js -->
