@@ -8,10 +8,11 @@
 ## <a href="https://mentorx.net">蔓藤教育：美国求职，美国实习，英澳实习求职专家</a>
 ## Latest Internship Opportunities
 
-_Last updated: 06-13_
+_Last updated: 06-15_
 
 | Job Title | Company | Location | Required Skills | Posted |
 |-----------|---------|----------|-----------------|--------|
+| [Internship, C++ Generalist, Optimus & Autonomy (Fall 2025)](https://www.indeed.com/viewjob?jk=7eb300da189d1df1&tk=1itqapg56i94j883&from=serp&vjs=3) | Tesla | Palo Alto, CA 94304 | C++, Computer Vision, Machine Learning, Embedded Systems software design, Linux software development, Cross-compilation for embedded Linux targets, Debugging and maintaining robust software, Communication standards such as CAN, ethercat, ethernet, GPU kernels programming, Quantization, MLIR, CUDA, LLMs | 06-15 | <!-- JobID: 1YIsBvE4e2 -->
 | [Software Engineer Intern - Fall 2025](https://www.indeed.com/viewjob?jk=6e2ba594a39e3363&tk=1itl6mln421oi059&from=serp&vjs=3) | WGI | Winter Springs, FL 32708 | Programming languages and frameworks, Software development, Debugging and testing code, Documentation, Problem-solving, Communication and presentation skills, Team collaboration, Analytical and organizational skills, Microsoft Office Suite or Google Workspace, Public cloud platforms (AWS, Azure, GCP) - plus | 06-13 | <!-- JobID: 3qU68pVO6n -->
 | [Software Engineering Co-op - Fall 2025](https://www.indeed.com/viewjob?jk=58030b3bd739b2a8&tk=1itl63ugegnmf824&from=serp&vjs=3) | Johnson & Johnson | Cincinnati, OH | C, C++, Python, Software design in Linux or similar operating system, Software testing tools (e.g. Google Test, NUnit, JUnit), Distributed Data Services (DDS) e.g. RTI Connext, OpenDDS, MQTT, Collaboration, Technical leadership, Conflict resolution, Interest in healthcare | 06-13 | <!-- JobID: BDkup0vmYy -->
 | [Software Engineer Intern - Fall 2025](https://www.indeed.com/viewjob?jk=f622df35e7563eee&tk=1ithajdoagmtd84c&from=serp&vjs=3) | WGI | Winter Springs, FL 32708 | Programming languages and frameworks, Software development, Debugging and testing code, Documentation, Problem-solving, Communication and presentation skills, Ability to work independently and in a team, Analytical and organizational skills, Knowledge of development methodologies and tools, Proficiency in Microsoft Office Suite or Google Workspace, Experience with public cloud platforms (AWS, Azure, GCP) | 06-12 | <!-- JobID: w3q4U20jWY -->
