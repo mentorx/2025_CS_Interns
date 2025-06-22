@@ -8,10 +8,11 @@
 ## <a href="https://mentorx.net">蔓藤教育：美国求职，美国实习，英澳实习求职专家</a>
 ## Latest Internship Opportunities
 
-_Last updated: 06-19_
+_Last updated: 06-21_
 
 | Job Title | Company | Location | Required Skills | Posted |
 |-----------|---------|----------|-----------------|--------|
+| [Forward Deployed Software Development Intern (Fall 2025)](https://www.indeed.com/viewjob?jk=98b4d9f9ac15ac91&tk=1iu9p7sa4i96r8ch&from=serp&vjs=3) | Accelerated Cloud Storage | United States | full stack development, cloud infrastructure, AI developments, product management, sales experience, problem-solving mindset, strong communication skills, technical documentation, customer engagement | 06-21 | <!-- JobID: cc2couDzgb -->
 | [Software Engineering Co-op - Fall 2025](https://www.indeed.com/viewjob?jk=2aca143a50e79454&tk=1iu4la7o3geev878&from=serp&vjs=3) | Johnson & Johnson | Cincinnati, OH | C, C++, Python, Software design in Linux or similar operating system, Software testing tools (e.g. Google Test, NUnit, JUnit), Distributed Data Services (DDS) e.g. RTI Connext, OpenDDS, MQTT, Collaboration, Technical leadership, Conflict resolution, Interest in healthcare | 06-19 | <!-- JobID: dii5VHAlsg -->
 | [Compiler Engineering Intern, GPU Compute and CUDA - Fall 2025](https://www.indeed.com/viewjob?jk=503bf08d6efc6c05&tk=1iu4kerva23b9030&from=serp&vjs=3) | NVIDIA | Santa Clara, CA 95050 | C/C++ programming, Python programming, CUDA programming language, Compiler framework and concepts, Performance analysis, Compiler optimizations, Interpersonal skills, Collaboration, LLVM and/or Clang compiler development, CUDA C++ application development, MLIR dialect development or transformation passes, Programming language standards experience, Parallel programming concepts | 06-19 | <!-- JobID: tFpl1Zc6oN -->
 | [System Software Engineering Intern, GPU Server - Fall 2025](https://www.indeed.com/viewjob?jk=fe252b99d8ebf6de&tk=1iu4kerva23b9030&from=serp&vjs=3) | NVIDIA | Santa Clara, CA 95050 | C++ programming, graphics concepts and algorithms, systems software, operating systems fundamentals, PC/hardware architecture, communication skills, engineering practices, problem solving, debugging skills, PCIE, Nvlink, Infiniband, Ethernet (plus) | 06-19 | <!-- JobID: CARYsfjrnT -->
