@@ -8,10 +8,11 @@
 ## <a href="https://mentorx.net">蔓藤教育：美国求职，美国实习，英澳实习求职专家</a>
 ## Latest Internship Opportunities
 
-_Last updated: 06-21_
+_Last updated: 06-23_
 
 | Job Title | Company | Location | Required Skills | Posted |
 |-----------|---------|----------|-----------------|--------|
+| [Intern/Co-op-FALL 2025 - Software Engineering](https://www.indeed.com/viewjob?jk=c053564133903e0b&tk=1iu9qhb6vgqq38a6&from=serp&vjs=3) | Innovative Systems | Hybrid work in Pittsburgh, PA 15220 | software design and development, programming applications and/or components, research new technologies and development tools, software and web development, design, and implementation, analytic and problem-solving skills, research skills, ability to work independently and collaboratively, coding experience with C, coding experience with SQL, coding experience with .NET, coding experience with XML, coding experience with HTML, coding experience with JavaScript, coding experience with CSS, experience with various operating systems | 06-21 | <!-- JobID: x72TIr7Cal -->
 | [Forward Deployed Software Development Intern (Fall 2025)](https://www.indeed.com/viewjob?jk=98b4d9f9ac15ac91&tk=1iu9p7sa4i96r8ch&from=serp&vjs=3) | Accelerated Cloud Storage | United States | full stack development, cloud infrastructure, AI developments, product management, sales experience, problem-solving mindset, strong communication skills, technical documentation, customer engagement | 06-21 | <!-- JobID: cc2couDzgb -->
 | [Software Engineering Co-op - Fall 2025](https://www.indeed.com/viewjob?jk=2aca143a50e79454&tk=1iu4la7o3geev878&from=serp&vjs=3) | Johnson & Johnson | Cincinnati, OH | C, C++, Python, Software design in Linux or similar operating system, Software testing tools (e.g. Google Test, NUnit, JUnit), Distributed Data Services (DDS) e.g. RTI Connext, OpenDDS, MQTT, Collaboration, Technical leadership, Conflict resolution, Interest in healthcare | 06-19 | <!-- JobID: dii5VHAlsg -->
 | [Compiler Engineering Intern, GPU Compute and CUDA - Fall 2025](https://www.indeed.com/viewjob?jk=503bf08d6efc6c05&tk=1iu4kerva23b9030&from=serp&vjs=3) | NVIDIA | Santa Clara, CA 95050 | C/C++ programming, Python programming, CUDA programming language, Compiler framework and concepts, Performance analysis, Compiler optimizations, Interpersonal skills, Collaboration, LLVM and/or Clang compiler development, CUDA C++ application development, MLIR dialect development or transformation passes, Programming language standards experience, Parallel programming concepts | 06-19 | <!-- JobID: tFpl1Zc6oN -->
