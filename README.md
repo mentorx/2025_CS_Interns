@@ -8,10 +8,12 @@
 ## <a href="https://mentorx.net">蔓藤教育：美国求职，美国实习，英澳实习求职专家</a>
 ## Latest Internship Opportunities
 
-_Last updated: 07-05_
+_Last updated: 07-07_
 
 | Job Title | Company | Location | Required Skills | Posted |
 |-----------|---------|----------|-----------------|--------|
+| [2025 Summer Intern - Software Engineer](https://www.indeed.com/viewjob?jk=7b250c03b2c3c5c8&tk=1ivivhfvvgnpr85q&from=serp&vjs=3) | WeRide.ai | San Jose, CA 95134 (North San Jose area) | C++, Python, Java, Go, programming practices, coding standards, test-driven development, analytical skills, problem-solving skills, communication skills, team collaboration, innovation passion | 07-07 | <!-- JobID: gHMqA9qznS -->
+| [2025 Summer Intern - PhD](https://www.indeed.com/viewjob?jk=98c985fbc5e69e92&tk=1ivivhfvvgnpr85q&from=serp&vjs=3) | WeRide.ai | San Jose, CA 95134 (North San Jose area) | Machine Learning, Computer Vision, Behavior Prediction, Planning, Mapping and Localization, C++, Python, Analytical and Problem-Solving Skills, Communication, Cross-functional Team Collaboration | 07-07 | <!-- JobID: B7ZrIYtt5b -->
 | [Backend Software Engineer Intern (Product RD and Infrastructure-Global E-Commerce Content)- 2025 Fall(BS/MS)](https://www.indeed.com/viewjob?jk=82ff3955043e3a8b&tk=1ivdqq98iiue983p&from=serp&vjs=3) | ByteDance | San Jose, CA | Backend development, Java, Golang, Python, Scala, C++, Data structure, Algorithm design and analysis, Networking, Data security, Highly scalable systems design, Databases (MySQL, Redis), Messaging frameworks (Kafka), Agile, Self-motivation, Product ownership, Problem solving, Collaboration, Teamwork | 07-05 | <!-- JobID: jIWMvrxYZl -->
 | [Intern, Data Integration - Summer 2025](https://www.indeed.com/viewjob?jk=4c6ccaad9f10c8b3&tk=1ivdrcp3kg35e869&from=serp&vjs=3) | PSEMI CORPORATION | San Diego, CA | Python programming, Java programming, SQL databases, NoSQL databases, Linux/Unix operating systems, Version control software (GitHub or Subversion), Self-starter, Quick learner, Good written and verbal communication skills, Knowledge of statistics | 07-05 | <!-- JobID: 8eVcBQ6rwJ -->
 | [Software Engineering Intern, Robot Learning Platform - Fall 2025](https://www.indeed.com/viewjob?jk=2f9280ade5ce40e1&tk=1ivdqnqpuia7m89c&from=serp&vjs=3) | NVIDIA | Santa Clara, CA 95050 | Python, Deep learning software stack (Pytorch, Tensorflow, Jax), Robotics and simulation workflows, Reinforcement learning, Imitation learning, Motion planning, Trajectory optimization, Analytical ability, Collaboration, Communication | 07-05 | <!-- JobID: qMk8TGk2rz -->
