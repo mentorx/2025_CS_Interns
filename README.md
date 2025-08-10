@@ -8,10 +8,12 @@
 ## <a href="https://mentorx.net">蔓藤教育：美国求职，美国实习，英澳实习求职专家</a>
 ## Latest Internship Opportunities
 
-_Last updated: 08-07_
+_Last updated: 08-09_
 
 | Job Title | Company | Location | Required Skills | Posted |
 |-----------|---------|----------|-----------------|--------|
+| [Amazon Robotics - Software Development Engineer Co-Op - Fall 2025](https://www.indeed.com/viewjob?jk=37c9513174c6b4bf&tk=1j27uj3vn22p503l&from=serp&vjs=3) | Amazon.com Services LLC | Seattle, WA | object-oriented design, operating systems, algorithms, data structures, complexity analysis, Java, Python, C++, C#, distributed systems, multi-tiered systems, relational databases, optimization mathematics, linear programming, nonlinear optimization, teamwork, problem solving | 08-09 | <!-- JobID: Wrqp9LjDXs -->
+| [Cloud Development Engineer Intern - Fall 2025](https://www.indeed.com/viewjob?jk=b9a530cd7f114e91&tk=1j27ukkvlg8je86v&from=serp&vjs=3) | Signify | Menlo Park, CA | Go programming language, Infrastructure as Code (Terraform), CI pipelines (Gitlab CI), Monitoring (Datadog), Analytical and problem-solving skills, Object-oriented development, Web and IoT technologies and protocols (RESTful APIs, OAUTH, HTTP), Effective communication, Teamwork | 08-09 | <!-- JobID: bPKpYx2q9w -->
 | [Amazon Robotics - Software Development Engineer Co-Op - Fall 2025](https://www.indeed.com/viewjob?jk=66a3e4c55b76adf2&tk=1j22ppu4tgc62803&from=serp&vjs=3) | Amazon.com Services LLC | Westborough, MA | object-oriented design, operating systems, algorithms, data structures, complexity analysis, Java, Python, C++, C#, distributed systems, multi-tiered systems, relational databases, optimization mathematics, linear programming, nonlinear optimization, teamwork, problem solving | 08-07 | <!-- JobID: tkYY9Dg7Zw -->
 | [Fall 2025 Software Engineering Intern](https://www.indeed.com/viewjob?jk=1c2826c969c07e5f&tk=1j22psgtcj0rp801&from=serp&vjs=3) | Astrolab | Hawthorne, CA 90250 | C++, Python, software development, software testing, debugging, collaboration, problem-solving, software documentation, data analysis, mission simulation, robotics, vehicle software | 08-07 | <!-- JobID: TdTpj6OuU2 -->
 | [Amazon Robotics - Software Development Engineer Co-Op - Fall 2025](https://www.indeed.com/viewjob?jk=11ccb7748f76d02f&tk=1j22q236h2jrc091&from=serp&vjs=3) | Amazon.com Services LLC | Seattle, WA | object-oriented design, operating systems, algorithms, data structures, complexity analysis, Java, Python, C++, C#, distributed systems, multi-tiered systems, relational databases, optimization mathematics, linear programming, nonlinear optimization, teamwork, problem solving | 08-07 | <!-- JobID: vKOAOsD9cR -->
